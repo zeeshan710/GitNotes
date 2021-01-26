@@ -39,3 +39,6 @@ Create Gist
 
 Grid View
 ![yUFNjcfZjx](https://user-images.githubusercontent.com/62376014/105823086-8c877c80-5fde-11eb-87be-d524bfc59868.png)
+
+# Screen Recording
+![GitNotes](https://user-images.githubusercontent.com/62376014/105823528-15061d00-5fdf-11eb-97fd-b2e26764e8c1.gif)
